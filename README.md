@@ -15,21 +15,21 @@ The removal of the suspect test scores had minimal effect on the School Summary 
 
 # Effect on Thomas High School relative to other schools
 Removal of the suspect test scores did not change Thomas High School's rank of 2nd highest performaing overall once the number of students whose grades were omitted were removed from the analysis. 
-[Top Schools](![image](/../main/resources/top_schools.png?raw=true)
+![Top Schools]([image](/../main/resources/top_schools.png?raw=true)
 
 # Effect on:
 **Math and reading scores by grade** - The most obvious effect is on the 9th grade scores for Thomas High School, as they have been removed from the analysis entirely.
-[Math scores by Grade](/../main/resources/math_scores_by_grade.png?raw=true)
-[Reading scores by Grade](/../main/resources/reading_scores_by_grade.png?raw=true)
+
+![Math scores by Grade](/../main/resources/math_scores_by_grade.png?raw=true) ![Reading scores by Grade](/../main/resources/reading_scores_by_grade.png?raw=true)
 
 **Scores by school spending** - There was little to no effect on the scores categorized by spending. Schools with lower spending per student trend to have higher overall test scores.
-[Scores by Spending](/../main/resources/scores_by_spending.png?raw=true)
+![Scores by Spending](/../main/resources/scores_by_spending.png?raw=true)
 
 **Scores by school size** - There was little to no effect on the scroes categorized by school size. Small to Medium schools trend to have higher overall test scores.
-[Scores by school size](/../main/resources/scores_by_size.png?raw=true)
+![Scores by school size](/../main/resources/scores_by_size.png?raw=true)
 
 **Scores by school type** - There was little to no effect on the scores categorized by type. Charter schools trend to  have higher test scores than District schools.
-[Scores by school type](/../main/resources/scores_by_type.png?raw=true)
+![Scores by school type](/../main/resources/scores_by_type.png?raw=true)
 
 
 ## Summary: 
